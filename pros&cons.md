@@ -53,6 +53,8 @@ Vue.js splits a single page application into a single component through componen
 
 Though I have not using Vue to develop a big porject but this obviously can be an advantage.
 
+## 
+
 ### Cons
 
 Because I use raw HTML + JS to write pages, and I just begin to learn Vue, I haven't found real disadvantage using it by myself. But *according to internet informations*, here are two main shortage of Vue.
