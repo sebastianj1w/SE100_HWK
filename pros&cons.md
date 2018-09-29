@@ -6,9 +6,8 @@
 
 ## What is Vue
 
-Vue.js is a progressive framework for building user interfaces. Unlike other heavyweight frameworks, Vue uses ***bottom-up incremental design***. Vue's core libraries ***focus only on the view layer and are very easy to learn and integrate with other libraries or existing projects.*** On the other hand, Vue is fully capable of driving complex single-page applications using single-file components and libraries supported by the Vue ecosystem.
-
-The goal of Vue.js is to implement the response data binding and composite view components through the simplest API.
+> Vue.js is a progressive framework for building user interfaces. Unlike other heavyweight frameworks, Vue uses ***bottom-up incremental design***. Vue's core libraries ***focus only on the view layer and are very easy to learn and integrate with other libraries or existing projects.*** On the other hand, Vue is fully capable of driving complex single-page applications using single-file components and libraries supported by the Vue ecosystem.
+> The goal of Vue.js is to implement the response data binding and composite view components through the simplest API.
 
 ## Pros & Cons
 
@@ -65,3 +64,9 @@ There are many get-to-start tutorials, but high-end documents are rare. You may 
 #### 2. Support of big companies
 
 With **Facebook's promotion**, learning React can bring more dividends in technology and resources than Vue.
+
+___
+
+## Ending
+
+I didn't have enough time to fully learn Vue, and because I have no experience with other frameworks, Vue seemed almost entirely superior to bare JS, which led to the fact that the feeling was very personal. I would like to learn Vue and React more in next days and try to improve this file if I had time.
