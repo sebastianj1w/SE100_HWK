@@ -96,7 +96,7 @@ However, there have been a few improvements to browsers and web apps that offer 
 
 <div align="center">
 <img src="pics/5.png" width="250" /><br>
-<font color="#C0C0C0">Taobao is a hybrid app</font>
+<div style="color:#c0c0c0">Taobao is a hybrid app</div>
 </div>
 
 ### What's Hybrid Apps
