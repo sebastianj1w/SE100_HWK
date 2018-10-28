@@ -94,6 +94,11 @@ However, there have been a few improvements to browsers and web apps that offer 
 
 ## Hybrid apps
 
+<div align="center">
+<img src="pics/5.png" width="250" />
+</div>
+This is a hybrid app.
+
 ### What's Hybrid Apps
 
 If a native app and a web app got married and had a kid, it would be a hybrid app.
@@ -114,6 +119,12 @@ Hybrid apps, like web apps, are built with Javascript, HTML, and CSS and run in 
 3. **The UX of the app will suffer**: iOS and Android users tend to be very loyal to their platforms, and since they’ve been using them for years, they’re used to how things work in native apps. The differences are subtle but can be frustrating for your app users. By building a hybrid app, you won’t be able to please both camps. Try too hard to customize the app based on the platform and it may end up costing the same as two native apps.
 
 ### How to develop Hybrid Apps
+
+The current mainstream platform for Hybrid app Development including Phonegap,appcan,appmobi and titanium. They are based on WebKit open source Core, developed with HTML5 standard. They are esay to adapt for diffierent models, supporting developer Custom plugin. And they can be well used in business, education, entertainment and other industries. They are preferred development platform for mobile developers.
+
+<div align="center">
+<img src="pics/6.jpg" width="440" />
+</div>
 
 ## Reference
 
