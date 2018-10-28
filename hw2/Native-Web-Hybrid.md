@@ -102,21 +102,25 @@ Hybrid apps, like web apps, are built with Javascript, HTML, and CSS and run in 
 
 ### Advantages of Hybrid Apps
 
+1. **One codebase to manage**: All the advantages of hybrid apps stem from the fact that, instead of building two apps, you’re building one app and simply tweaking it a bit so it works on both platforms.With a hybrid app, you only have one codebase to manage.
+2. **You save time and money**: As you only have to manage one codebase, you’ll probably require half the number of developers two native apps would have required. Or, with the same number of developers, a hybrid app could be published in half the time. In addition, hybrid app developers are often less expensive than native app developers.
+3. **Easier to scale**: Hybrid apps are easier to scale to another platform. Once you’ve built for one platform, you can launch on another like Windows Mobile.
+4. **You still have access to device features**: As with native apps, hybrid apps let you retain the same ability to access device features.This is thanks to solutions like PhoneGap that act like a bridge between the native SDK and the webview in which the app runs.
+
 ### Disadvantages of Hybrid Apps
+
+1. **Performance**: Performance is probably the biggest disadvantage of hybrid apps. Because hybrid apps load in a browser-like component called webview, they are only as good as the webview. Webview is responsible for displaying the UI and for running Javascript code. In the early days of mobile, Google and Apple didn’t give webview the same engines used by their mobile browsers, Chrome and Safari. Since then, webview has vastly improved but it hasn’t reached native performance yet. We will get deeper into different aspects of performance later in the article.
+2. **Cross-platform development is tough**: Getting your hybrid app to run appropriately on each platform generally takes substantial work. In some situations, the total cost might become comparable to that of fully native apps, rendering the cost benefits negligible. It all depends on how close you want to get to the “native user experience” or how simple your app is.
+3. **The UX of the app will suffer**: iOS and Android users tend to be very loyal to their platforms, and since they’ve been using them for years, they’re used to how things work in native apps. The differences are subtle but can be frustrating for your app users. By building a hybrid app, you won’t be able to please both camps. Try too hard to customize the app based on the platform and it may end up costing the same as two native apps.
 
 ### How to develop Hybrid Apps
 
 ## Reference
 
 1. [What is a mobile native app?](https://www.quora.com/What-is-a-mobile-native-app)
-1. [Android vs. iOS: Which smartphone platform is the best?](https://www.digitaltrends.com/mobile/android-vs-ios/)
-1. [native app](https://searchsoftwarequality.techtarget.com/definition/native-application-native-app)
 1. [What is a Hybrid Mobile App?](https://developer.telerik.com/featured/what-is-a-hybrid-mobile-app/)
 1. ["Native, HTML5, or Hybrid: Understanding Your Mobile Application Development Options"](https://developer.salesforce.com/page/Native,_HTML5,_or_Hybrid:_Understanding_Your_Mobile_Application_Development_Options)
 1. [A Guide to Mobile App Development: Web vs. Native vs. Hybrid](https://clearbridgemobile.com/mobile-app-development-native-vs-web-vs-hybrid/)
 1. [Mobile App Vs. Mobile Website: Which Is The Better Option?](https://clearbridgemobile.com/mobile-app-vs-mobile-website-which-is-the-better-option/)
-1. [Difference? Which Do I Need?](https://www.upwork.com/hiring/mobile/native-app-vs-web-app-for-mobile/)
-1. [11 Examples of Progressive Web Apps](https://themanifest.com/app-development/11-examples-progressive-web-apps)
-1. [hybrid application (hybrid app)](https://searchsoftwarequality.techtarget.com/definition/hybrid-application-hybrid-app)
-1. [Top 5 Benefits of Hybrid Mobile App Development](https://www.rishabhsoft.com/blog/advantages-of-hybrid-mobile-apps)
 1. [Web application - Wikipedia](https://en.wikipedia.org/wiki/Web_application)
+1. [Native Apps, Web Apps or Hybrid Apps? What’s the Difference?](https://www.mobiloud.com/blog/native-web-or-hybrid-apps/)
