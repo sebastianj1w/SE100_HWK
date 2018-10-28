@@ -1,5 +1,9 @@
 # Native Apps, Web Apps and Hybrid Apps
 
+<div align="center">
+<img src="pics/1.jpg" width="550" height="270" />
+</div>
+
 ## Native App
 
 ### What's native apps
@@ -21,6 +25,21 @@ A native application (native app) is an application program that has been develo
 3. Truly costly to get outlined and manufacture, particularly when the application should be good with various versatile working frameworks, in this way duplicating the improvement costs.
 4. Staggering expense for application upkeep particularly if this application bolsters in excess of one stage.
 5. Getting the application endorsement from application stores is a long and dull process, likewise can't be overhauled effectively.
+
+### How to develop native apps
+
+Native apps are applications written in languages that the platform they are being built for accepts. For example, Swift or Objective-C is used to write native iOS apps, Java is used to write native Android apps, and C# for the most part for Windows Phone apps.
+Apple and Google offer app developers their own development tools, interface elements and standardised SDK: Xcode and Android Studio. This allows any professional developer to develop a native app relatively easily.
+
+The main disadvantage of native apps is having to develop apps separately for each platform you want to cover. That’s still true if you want to stick to the native SDKs provided by Apple and Google, but in the last few years, several alternatives have become available to reap the benefits of cross-platform development without sacrificing the user experience or access to native APIs. Two of such platforms that allow for cross-platform development are Xamarin and React Native.
+
+<div align="center">
+<img src="pics/TargetAllPlatforms_636x300.png" width="550" height="230" />
+</div>
+
+Xamarin Made by Microsoft.
+Xamarin is a platform that lets developers build one app that works on multiple platforms in C#. They also provide free tools to build, test, distribute, and learn from your apps.
+React Native Not wanting to be left out of the fight, in 2015 Facebook launched an open-source project of their own called React Native, which lets you build real, native iOS and Android apps with one codebase.
 
 ## Reference
 
