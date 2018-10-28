@@ -42,13 +42,15 @@ The main disadvantage of native apps is having to develop apps separately for ea
 </div>
 
 Xamarin Made by Microsoft.
-Xamarin is a platform that lets developers build one app that works on multiple platforms in C#. They also provide free tools to build, test, distribute, and learn from your apps.
 
+Xamarin is a platform that lets developers build one app that works on multiple platforms in C#. They also provide free tools to build, test, distribute, and learn from your apps.
+<br>
 <div align="center">
 <img src="pics/timg.jpg" width="550" height="240" />
 </div>
 
 React Native
+
 Not wanting to be left out of the fight, in 2015 Facebook launched an open-source project of their own called React Native, which lets you build real, native iOS and Android apps with one codebase.
 
 ## Web apps
