@@ -95,9 +95,9 @@ However, there have been a few improvements to browsers and web apps that offer 
 ## Hybrid apps
 
 <div align="center">
-<img src="pics/5.png" width="250" />
+<img src="pics/5.png" width="250" /><br>
+<div text-decoration-color="grey">Taobao is a hybrid app</div>
 </div>
-This is a hybrid app.
 
 ### What's Hybrid Apps
 
