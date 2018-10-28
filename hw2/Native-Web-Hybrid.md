@@ -55,17 +55,50 @@ Not wanting to be left out of the fight, in 2015 Facebook launched an open-sourc
 
 ## Web apps
 
+<div align="center">
+<img src="pics/4.jpg" width="350" height="240" />
+</div>
+
 ### What's Web Apps
+
+A web application or web app is any ***software that runs in a web browser.*** It is created in a browser-supported programming language (such as the combination of **JavaScript**, **HTML** and **CSS**) and relies on a web browser to render the application.
+Web applications are popular due to the **ubiquity of web browsers**, and the convenience of using a web browser as a client, sometimes called a thin client. The ability to update and maintain web applications without distributing and installing software on potentially thousands of client computers is a key reason for their popularity, as is the inherent support for cross-platform compatibility. Common web applications include webmail, online retail sales, online auctions, wikis and many other functions.
 
 ### Advantages of Web Apps
 
+1. **It can be cross-platform, and easy to debug.**
+2. There is **no need to install** web apps, so that they do not occupy the phone memory.
+3. Web apps have the fastest update speed because they can be upgraded by refreshing the page.
+4. There is **no multi-version problem**(there is only one version for user), which leads to low maintenance costs
+5. It is temporary entrance, can be arbitrarily embedded
+
 ### Disadvantages of Web Apps
 
+1. Web apps rely on the network, the first time to visit the page is slow, and will consume volume.
+2. Web apps' **performance is limited by mobile phone and browser performance**, the user experience compared to other modes is the worst.
+3. Web apps' **function is limited**, the massive mobile functions cannot be realized
+4. The entrance of Web Apps is strongly dependent on the third-party browser, and can only be in the form of a URL address, resulting in a low user retention rate (advantage is the disadvantage)
+
 ### How to develop Web Apps
+
+The vast majority of Web Apps are built in JavaScript, CSS, and HTML5.
+Unlike an iOS or Android app, ***there is no software development kit (SDK)*** for a developer to work with.
+There are templates and frameworks like ***Angular***, ***React***, and ***Vue.js*** that you can use to get a quick start.
+
+**Progressive Web App(PWA)**
+<div align="center">
+<img src="pics/3.png" width="550" height="320" />
+</div>
+Until recently, web apps lacked the functionality of native apps, like the ability to send push notifications, work offline, and load on the home screen.
+However, there have been a few improvements to browsers and web apps that offer these features. Apps that take advantage of these features are called Progressive Web Apps (PWAs).
 
 ## Hybrid apps
 
 ### What's Hybrid Apps
+
+If a native app and a web app got married and had a kid, it would be a hybrid app.
+You **install it like a native app**, but it’s actually **a web app on the inside**.
+Hybrid apps, like web apps, are built with Javascript, HTML, and CSS and run in something called Webview, ***a simplified browser within your app***.
 
 ### Advantages of Hybrid Apps
 
@@ -86,3 +119,4 @@ Not wanting to be left out of the fight, in 2015 Facebook launched an open-sourc
 1. [11 Examples of Progressive Web Apps](https://themanifest.com/app-development/11-examples-progressive-web-apps)
 1. [hybrid application (hybrid app)](https://searchsoftwarequality.techtarget.com/definition/hybrid-application-hybrid-app)
 1. [Top 5 Benefits of Hybrid Mobile App Development](https://www.rishabhsoft.com/blog/advantages-of-hybrid-mobile-apps)
+1. [Web application - Wikipedia](https://en.wikipedia.org/wiki/Web_application)
