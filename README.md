@@ -11,4 +11,4 @@ The file of homework 2 is "[Native-Web-Hybrid.md](hw2/Native-Web-Hybrid.md)"
 # Homework III
 
 Homework III is stored in another repo: 
-https://github.com/sebastianj1w/SE100_HW3.git
+https://github.com/sebastianj1w/SimpleCalculator-Vue.git
